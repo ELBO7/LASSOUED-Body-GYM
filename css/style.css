@@ -676,6 +676,9 @@ header .ham-burger.active span:nth-child(2){
 	padding:0px 0px 20px;
 	font-weight: 700;
 }
+#Promo{
+	color: #ff0000;
+}
 .price-package .content .box .inner .text p{
  font-size: 15px;
  line-height: 20px;
